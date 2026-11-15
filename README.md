@@ -1,0 +1,5 @@
+Mission Control is an interactive Space Mission Design Game that allows players to experience the challenges of planning and managing a space mission. Players take on the role of a mission director and choose objectives such as Earth observation, Moon exploration, or Mars exploration. They design their spacecraft by selecting scientific instruments, power systems, batteries, communication equipment, propulsion systems, and launch vehicles.
+
+Every decision involves trade-offs. Players must manage limited budgets, spacecraft mass, power requirements, communication capacity, and scientific objectives to achieve mission success. The game features resource management, engineering constraint checks, mission simulation, scoring, and feedback explaining the outcome of each mission.
+
+Our goal is to make space engineering accessible and engaging through interactive gameplay while encouraging critical thinking, creativity, and problem-solving. Mission Control turns complex aerospace concepts into an exciting educational experience.
